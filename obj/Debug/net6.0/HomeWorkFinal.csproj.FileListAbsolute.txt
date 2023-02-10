@@ -1,0 +1,15 @@
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\bin\Debug\net6.0\HomeWorkFinal.exe
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\bin\Debug\net6.0\HomeWorkFinal.deps.json
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\bin\Debug\net6.0\HomeWorkFinal.runtimeconfig.json
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\bin\Debug\net6.0\HomeWorkFinal.dll
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\bin\Debug\net6.0\HomeWorkFinal.pdb
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\obj\Debug\net6.0\HomeWorkFinal.csproj.AssemblyReference.cache
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\obj\Debug\net6.0\HomeWorkFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\obj\Debug\net6.0\HomeWorkFinal.AssemblyInfoInputs.cache
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\obj\Debug\net6.0\HomeWorkFinal.AssemblyInfo.cs
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\obj\Debug\net6.0\HomeWorkFinal.csproj.CoreCompileInputs.cache
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\obj\Debug\net6.0\HomeWorkFinal.dll
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\obj\Debug\net6.0\refint\HomeWorkFinal.dll
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\obj\Debug\net6.0\HomeWorkFinal.pdb
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\obj\Debug\net6.0\HomeWorkFinal.genruntimeconfig.cache
+C:\Users\79260\Desktop\FinalLesson\HomeWorkFinal\obj\Debug\net6.0\ref\HomeWorkFinal.dll
